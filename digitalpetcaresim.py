@@ -33,7 +33,7 @@ while turn <= 10:
         happiness = happiness + 2
         energy = energy - 2
         hunger - hunger + 1
-        print(pet_name, " enjoyed the food!")
+        print(pet_name, " had fun!")
     
     elif choice == "3":
         energy = energy + 3
